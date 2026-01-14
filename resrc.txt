@@ -1,0 +1,7 @@
+this is the learning resource file for 
+java
+PostgreSQL
+springboot
+React
+English speaking
+DSA
